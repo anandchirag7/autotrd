@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Indian Stock Market Trading Bot",
+  "description": "Comprehensive autonomous NSE and BSE algorithmic trading bot powered by machine learning, real-time technical indicators, dynamic risk management, broker API integration, live trade alerts, and historical backtesting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
